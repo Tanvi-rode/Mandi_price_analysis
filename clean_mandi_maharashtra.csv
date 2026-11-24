@@ -1,0 +1,20 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Price_Spread,Price_Per_Kg
+Maharashtra,Nagpur,Apmc Kalmeshwar,Tomato,Other,Local,2026-11-21,860.0,1200.0,1040.0,340.0,10.4
+Maharashtra,Kolhapur,Kolhapur(Laxmipuri),Rice,1009 Kar,Local,2026-11-21,3600.0,9500.0,6550.0,5900.0,65.5
+Maharashtra,Pune,Pune(Moshi),Onion,Local,Local,2026-11-21,2000.0,4500.0,3250.0,2500.0,32.5
+Maharashtra,Pune,Pune(Moshi),Tomato,Local,Local,2026-11-21,500.0,1000.0,750.0,500.0,7.5
+Maharashtra,Raigad,Apmc Alibagh,Rice,Other,Local,2026-11-21,4000.0,4500.0,4250.0,500.0,42.5
+Maharashtra,Pune,Pune(Pimpri),Tomato,Local,Local,2026-11-21,1200.0,1500.0,1350.0,300.0,13.5
+Maharashtra,Ahilyanagar,Apmc Rahata,Tomato,Other,Local,2026-11-21,250.0,1000.0,625.0,750.0,6.25
+Maharashtra,Ahilyanagar,Apmc Shrirampur,Potato,Other,Local,2026-11-21,1000.0,1300.0,1150.0,300.0,11.5
+Maharashtra,Sangli,Apmc Vita,Potato,Other,Local,2026-11-21,2000.0,2200.0,2000.0,200.0,20.0
+Maharashtra,Sangli,Apmc Vita,Onion,Other,Local,2026-11-21,4000.0,5000.0,4500.0,1000.0,45.0
+Maharashtra,Ahilyanagar,Apmc Rahuri,Tomato,Other,Local,2026-11-21,500.0,1500.0,1000.0,1000.0,10.0
+Maharashtra,Palghar,Apmc  Vasai,Rice,1009 Kar,Local,2026-11-21,2795.0,3860.0,3350.0,1065.0,33.5
+Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),Onion,Unhali,Local,2026-11-21,2800.0,4350.0,3900.0,1550.0,39.0
+Maharashtra,Pune,Khed(Chakan),Tomato,Other,Local,2026-11-21,1000.0,1600.0,1300.0,600.0,13.0
+Maharashtra,Pune,Pune(Moshi),Potato,Local,Local,2026-11-21,1200.0,1400.0,1300.0,200.0,13.0
+Maharashtra,Sangli,Apmc Vita,Tomato,Other,Local,2026-11-21,1000.0,1500.0,1200.0,500.0,12.0
+Maharashtra,Pune,Pune(Pimpri),Onion,Local,Local,2026-11-21,4000.0,4000.0,4000.0,0.0,40.0
+Maharashtra,Ahilyanagar,Apmc Rahata,Potato,Other,Local,2026-11-21,600.0,1300.0,950.0,700.0,9.5
+Maharashtra,Raigad,Apmc Murud,Rice,Other,Local,2026-11-21,4000.0,4500.0,4250.0,500.0,42.5
